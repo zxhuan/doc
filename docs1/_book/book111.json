@@ -1,0 +1,36 @@
+{
+  "author": "zxhuan <1123046380>",
+  "description": "一个基于Vue2.x的移动端UI。项目中写的一些简单的vueUI框架，不断学习不断完善",
+  "extension": null,
+  "generator": "site",
+  "isbn": null,
+  "links": {
+    "sharing": {
+      "all": null,
+      "facebook": null,
+      "google": null,
+      "twitter": null,
+      "weibo": null
+    },
+    "sidebar": {
+      "Chengwei's Blog": "http:www.zxhuan.com"
+    }
+  },
+  "output": null,
+  "pdf": {
+    "fontSize": 12,
+    "footerTemplate": null,
+    "headerTemplate": null,
+    "margin": {
+      "bottom": 36,
+      "left": 62,
+      "right": 62,
+      "top": 36
+    },
+    "pageNumbers": false,
+    "paperSize": "a4"
+  },
+  "plugins": [],
+  "title": "Sample GitBook",
+  "variables": {}
+}
