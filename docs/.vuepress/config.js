@@ -21,7 +21,8 @@ module.exports = {
       ['/component/popup/', 'popup'],
       ['/component/switch/', 'switch'],
       ['/component/cell/', 'cell'],
-      ['/component/dialog/', 'dialog']
+      ['/component/dialog/', 'dialog'],
+      ['/component/icon/', 'icon']
       // ['/api/', '属性'],
       // ['/function/', '方法']
     ]
